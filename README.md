@@ -1,4 +1,4 @@
- # EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+ # EXPERIMENT -06 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: 
 To  configure  the Network server and end device for traferring data on the network
